@@ -1,0 +1,12 @@
+.Third-Card-Container {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.Third-Message {
+    color:  #FFF5EE;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}

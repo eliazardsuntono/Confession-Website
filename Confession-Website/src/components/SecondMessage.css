@@ -1,0 +1,51 @@
+.Second-Card-Container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Shy-Snoopy {
+    width: 35%;
+    height:40%;
+}
+
+.Second-Question {
+    color:  #FFF5EE;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.Button-Container {
+    flex-direction: row;
+    gap: 50px;
+}
+
+.Yes-Button {
+    border: none;
+    background-color: #555D50;
+    color: #FFF5EE;
+    width: 15vh;
+    height: 5vh;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+.No-Button {
+    border: none;
+    background-color: #555D50;
+    color: #FFF5EE;
+    width: 15vh;
+    height: 5vh;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    transition: all 0.3s ease;
+}
+
+#Moving-Button {
+    position: relative;
+}
+
+

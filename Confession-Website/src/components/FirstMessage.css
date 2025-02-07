@@ -1,0 +1,33 @@
+.First-Card-Container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Giggling-Snoopy {
+    width: 50%;
+    height: 65%;
+}
+
+.First-Question {
+    color:  #FFF5EE;
+    font-family: 'Courier New', Courier, monospace;
+}
+.question {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.Continue-Button {
+    margin-top: 2.5%;
+    border: none;
+    background-color: #555D50;
+    color: #FFF5EE;
+    width: 15vh;
+    height: 5vh;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
